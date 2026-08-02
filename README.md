@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayra-singh/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
 </div>
 
