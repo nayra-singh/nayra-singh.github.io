@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-7C6CFF?style=for-the-badge)](https://nayra-singh.github.io)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nayra_Singh-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Nayra_Singh-181717?style=for-the-badge&logo=github)](https://github.com/nayra-singh/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nayra-singh/))
 
