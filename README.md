@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nayra_Singh-181717?style=for-the-badge&logo=github)](https://github.com/nayra-singh/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nayra-singh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayra-singh/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
@@ -97,47 +97,6 @@ nayra-singh.github.io/
 | `script.js` | Typing animation, theme switcher and scroll effects |
 | `assets/` | Resume, project screenshots and other assets |
 | `README.md` | Repository documentation |
-
----
-
-# 🚀 Featured Projects
-
-## 🎵 Dieknobeats
-
-A full-stack web application developed using **Next.js and MongoDB**.
-
-### Highlights
-
-- Server-Side Rendering with Next.js
-- Dynamic routing
-- MongoDB schema design
-- Database indexing
-- Backend logging and monitoring using AWS
-
-**Technologies**
-
-`Next.js` • `JavaScript` • `MongoDB` • `AWS`
-
-[View Source Code](YOUR_DIEKNOBEATS_GITHUB_URL) • [Live Demo](YOUR_DIEKNOBEATS_LIVE_URL)
-
----
-
-## 🖼️ Image Search Engine
-
-A responsive image-search application built using **HTML, CSS and JavaScript** with external API integration.
-
-### Highlights
-
-- External image API integration
-- Asynchronous requests using Fetch API
-- Dynamic DOM manipulation
-- Responsive user interface
-
-**Technologies**
-
-`HTML5` • `CSS3` • `JavaScript` • `Fetch API` • `REST API`
-
-[View Source Code](YOUR_IMAGE_SEARCH_GITHUB_URL) • [Live Demo](YOUR_IMAGE_SEARCH_LIVE_URL)
 
 ---
 
@@ -300,8 +259,6 @@ Some features I plan to add over time:
 [![GitHub](https://img.shields.io/badge/GitHub-Nayra_Singh-181717?style=for-the-badge&logo=github)](https://www.linkedin.com/in/nayra-singh/))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayra-singh/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
 </div>
 
